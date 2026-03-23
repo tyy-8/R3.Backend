@@ -1,2 +1,2 @@
 Welcome to <color=red>R3</color>!
-Currently Undetected.
+Currently <color=green>Undetected</color>.
